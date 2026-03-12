@@ -1,5 +1,5 @@
 <div>
-    <h1>Product Page</h1>
+    <h1>Multiple Parameter Page</h1>
     <p>Category: {{ $category }}</p>
     <p>ID: {{ $id }}</p>
 </div>
