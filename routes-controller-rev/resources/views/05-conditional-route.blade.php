@@ -1,5 +1,5 @@
 <div>
-    <h1>Age Check Page</h1>
+    <h1>Conditional Page</h1>
     <p>Age: {{ $age }}</p>
     <p>{{ $message }}</p>
 </div>
